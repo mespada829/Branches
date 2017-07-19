@@ -1,6 +1,7 @@
-# Branches-Practice
+# Branch-Practice
 
-What is this repo? 
+<b> What is this repo? </b>
+<br>
 Testing branches, adding new files, initial commits...improving team work flow in branches.
 
 - Show branches: git branch
